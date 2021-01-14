@@ -8,5 +8,5 @@ Created a password generator using JavaScript
 
 # webpage link 
 https://alexcappy21.github.io/generate-your-password/
-# giithub repository link
+# github repository link
 https://github.com/alexcappy21/generate-your-password
