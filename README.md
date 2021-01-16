@@ -3,7 +3,7 @@
 Created a password generator using JavaScript
 -html and css was already created
 -user has to input criteria for the password
--password is then generatored randomly with the chosen criteria
+-password is then generated randomly with the chosen criteria
 
 
 # webpage link 
