@@ -11,9 +11,9 @@ https://alexcappy21.github.io/generate-your-password/
 https://github.com/alexcappy21/generate-your-password
 
 # screenshots
-<img scr="screenshots/Screen%20Shot%202021-01-16%20at%204.27.31%20PM.png" width="300">
-<img scr="screenshots/Screen%20Shot%202021-01-16%20at%204.27.31%20PM.png" width="300">
-<img scr="screenshots/Screen%20Shot%202021-01-16%20at%204.27.31%20PM.png" width="300">
-![](screenshots/Screen%20Shot%202021-01-16%20at%204.27.31%20PM.png);
-![](screenshots/SScreen%20Shot%202021-01-16%20at%204.27.48%20PM.png);
-![](screenshots/Screen%20Shot%202021-01-16%20at%204.28.05%20PM.png);
+
+![](screenshots/Screen%20Shot%202021-01-16%20at%204.27.31%20PM.png)
+
+![](screenshots/Screen%20Shot%202021-01-16%20at%204.27.48%20PM.png)
+
+![](screenshots/Screen%20Shot%202021-01-16%20at%204.28.05%20PM.png)
